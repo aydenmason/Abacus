@@ -1,1 +1,1 @@
-this is a simple program that takes two numbers adds them together and outputs the 13 column abacus representation.
+this is a simple program that takes two numbers adds them together and outputs the 13 column abacus representation. :)
